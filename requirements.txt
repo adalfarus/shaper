@@ -1,5 +1,5 @@
-PySide6==6.7.0
-aplustools==1.4.9
+PySide6==6.6.1
+aplustools==1.4.9  # Get from the dev branch at github
 numpy==1.26.4
 pillow==10.3.0
 opencv-python==4.9.0.80
