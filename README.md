@@ -5,3 +5,7 @@ Arguments are the target image path, the shapes directory path, changing the col
 ````bash
 py .\V4.py 003.JPG ./shapes True False .\final_image_old.png
 ````
+You can leave out the last parameter if you want to start fresh like this:
+````bash
+py .\V4.py 8.jpg ./shapes True False
+````
