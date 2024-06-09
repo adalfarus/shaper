@@ -2,6 +2,7 @@
  Create a target image from given shapes like triangles, cubes, circles, ...
 
 <p float="center">
+  <img src="/from_image.png" width="41%" />
   <img src="/final_image.png" width="41%" />
 </p>
 
