@@ -7,6 +7,8 @@
   <img src="/final_image.png" width="30%" />
 </p>
 
+The aplustools version needed can be found (here)[https://github.com/adalfarus/aplustools/tree/706087d7d69299766f4a9affbf1d5c4adb6d06ae].  I'll update it to the latest when I have time to verify they work the same.
+
 Arguments are the target image path, the shapes directory path, changing the color of the shapes, using random shapes, and finally if it should start at another image.
 (This doesn't work sometimes)
 ````bash
