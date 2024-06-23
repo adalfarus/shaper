@@ -18,3 +18,5 @@ You can leave out the last parameter if you want to start fresh like this:
 ````bash
 python3 V4.py from_image.png shapes True False
 ````
+
+When you close the window it'll save the image to final_image.png
