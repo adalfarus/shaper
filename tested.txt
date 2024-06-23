@@ -1,2 +1,0 @@
-Python 3.12.1; Windows 11; Qt6; On bigger images, otherwise it can lead to an opencv error
-Python 3.10.12; Ubuntu 22.04 LTS; Qt6 & libxcb-cursor0; On Bigger images, otherwise it can lead to an opencv error
