@@ -20,3 +20,8 @@ python3 V4.py from_image.png shapes True False
 ````
 
 When you close the window it'll save the image to final_image.png
+
+## Tested configurations
+[On bigger images, otherwise it can lead to an opencv error]
+- Python 3.12.1; Windows 11; Qt6
+- Python 3.10.12; Ubuntu 22.04 LTS; Qt6 & libxcb-cursor0
