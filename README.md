@@ -4,7 +4,7 @@
 <p float="center">
   <img src="/from_image.png" width="30%" />
   <img src="/middle_image.png" width="30%" />
-  <img src="/final_image.png" width="30%" />
+  <img src="/final_image_ubuntu.png" width="30%" />
 </p>
 
 The aplustools version needed can be found [here](https://github.com/adalfarus/aplustools/tree/706087d7d69299766f4a9affbf1d5c4adb6d06ae).  I'll update it to the latest version when I have time to verify they work the same.
