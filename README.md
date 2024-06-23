@@ -8,10 +8,11 @@
 </p>
 
 Arguments are the target image path, the shapes directory path, changing the color of the shapes, using random shapes, and finally if it should start at another image.
+(This doesn't work sometimes)
 ````bash
-py .\V4.py 003.JPG ./shapes True False .\final_image_old.png
+python3 V4.py from_image.png shapes True False middle_image.png
 ````
 You can leave out the last parameter if you want to start fresh like this:
 ````bash
-py .\V4.py 8.jpg ./shapes True False
+python3 V4.py from_image.png shapes True False
 ````
