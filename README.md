@@ -4,19 +4,17 @@
 <p float="center">
   <img src="/from_image.png" width="30%" />
   <img src="/middle_image.png" width="30%" />
-  <img src="/final_image_ubuntu.png" width="30%" />
+  <img src="/final_image_98.76.png" width="30%" />
 </p>
-
-The aplustools version needed can be found [here](https://github.com/adalfarus/aplustools/tree/706087d7d69299766f4a9affbf1d5c4adb6d06ae).  I'll update it to the latest version when I have time to verify they work the same.
 
 Arguments are the target image path, the shapes directory path, changing the color of the shapes, using random shapes, and finally if it should start at another image.
 (This doesn't work sometimes)
 ````bash
-python3 V4.py from_image.png shapes True False middle_image.png
+python3 shaper.py from_image.png ./shapes True False middle_image.png
 ````
 You can leave out the last parameter if you want to start fresh like this:
 ````bash
-python3 V4.py from_image.png shapes True False
+python3 shaper.py from_image.png ./shapes True False
 ````
 
 When you close the window it'll save the image to final_image.png
